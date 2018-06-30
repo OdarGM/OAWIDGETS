@@ -1,5 +1,8 @@
 # This is just some widgets for my servers and othert things :D
 
+<kbd>Ctrl</kbd>+<kbd>S</kbd>
+<kbd>XD</kbd>
+
  [![Bot](https://img.shields.io/badge/DiscordBot-Yes-green.svg)](https://bot.odar.xyz)
  [![Odar](https://img.shields.io/badge/Made%20by%3A-Odar-brightgreen.svg)](https://odar.xyz)
  [![Donate](https://img.shields.io/badge/Like%20it-Donate-brightgreen.svg)](https://odar.xyz/donate)
