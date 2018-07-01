@@ -12,3 +12,5 @@
 <p><a href="https://discord.gg/zvvasbc"><img src="https://discordapp.com/api/guilds/298762167388471296/widget.png?style=banner2"></a></p>
 <p><a href="https://discord.gg/zvvasbc"><img src="https://discordapp.com/api/guilds/298762167388471296/widget.png?style=banner3"></a></p>
 <p><a href="https://discord.gg/zvvasbc"><img src="https://discordapp.com/api/guilds/298762167388471296/widget.png?style=banner4"></a></p>
+
+<iframe src="https://discordapp.com/widget?id=298762167388471296&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
