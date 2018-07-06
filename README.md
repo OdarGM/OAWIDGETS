@@ -22,3 +22,6 @@
           channel: '298762167388471296'
         })
       </script>
+
+
+CNAME for custom domains
