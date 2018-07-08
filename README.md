@@ -25,3 +25,11 @@
 
 
 CNAME for custom domains
+
+
+
+https://coderstats.net/github/#OdarGM
+
+http://git-awards.com/users/odargm
+
+
