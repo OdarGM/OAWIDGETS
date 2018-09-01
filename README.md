@@ -13,16 +13,18 @@
 <p><a href="https://discord.gg/zvvasbc"><img src="https://discordapp.com/api/guilds/298762167388471296/widget.png?style=banner3"></a></p>
 <p><a href="https://discord.gg/zvvasbc"><img src="https://discordapp.com/api/guilds/298762167388471296/widget.png?style=banner4"></a></p>
 
+```html
 <iframe src="https://discordapp.com/widget?id=298762167388471296&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
+```
 
-
+```html
 <script src="https://cdn.jsdelivr.net/npm/@widgetbot/crate@3" async defer>
         new Crate({
           server: '298762167388471296',
           channel: '298762167388471296'
         })
       </script>
-
+```
 
 CNAME for custom domains
 
